@@ -153,7 +153,7 @@ class PixelSyncPorter:
 
 <br>
 
-[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-0d0d0d?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/Pixeltamer1](https://x.com/Pixel_Tamer))
+[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pixel_Tamer)
 [![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1323643345087762442)
 [![Blender Extensions](https://img.shields.io/badge/Blender_Extensions-0d0d0d?style=for-the-badge&logo=blender&logoColor=00b4d8)](https://extensions.blender.org/approval-queue/pixelsync-porter/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Pixeltamer1)
